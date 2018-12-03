@@ -30,11 +30,11 @@ SRTSolidityFilesProvider >> initialize [
 ]
 
 { #category : #initialization }
-SRTSolidityFilesProvider >> size [
-	^ self entries size 
+SRTSolidityFilesProvider >> readStream [
+	^ ReadStream on: self
 ]
 
 { #category : #initialization }
-SRTSolidityFilesProvider >> stream [
-	^ ReadStream on: self
+SRTSolidityFilesProvider >> size [
+	^ self entries size 
 ]
