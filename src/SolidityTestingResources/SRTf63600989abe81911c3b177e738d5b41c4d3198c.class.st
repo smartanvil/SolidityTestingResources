@@ -1,0 +1,12 @@
+Class {
+	#name : #SRTf63600989abe81911c3b177e738d5b41c4d3198c,
+	#superclass : #SRTContracts,
+	#category : #SolidityTestingResources
+}
+
+{ #category : #base64 }
+SRTf63600989abe81911c3b177e738d5b41c4d3198c >> base64 [
+	^ 'Y29udHJhY3QgU2ltcGxlUG9uemkgewogICAgYWRkcmVzcyBwdWJsaWMgY3VycmVudEludmVzdG9yOwogICAgdWludCBwdWJsaWMgY3VycmVudEludmVzdG1lbnQgPSAwOwogICAgCiAgICBmdW5jdGlvbiAoKSBwYXlhYmxlIHB1YmxpYyB7CiAgICAgICAgcmVxdWlyZShtc2cudmFsdWUgPiBjdXJyZW50SW52ZXN0bWVudCk7CiAgICAgICAgCiAgICAgICAgLy8gcGF5b3V0IHByZXZpb3VzIGludmVzdG9yCiAgICAgICAgY3VycmVudEludmVzdG9yLnNlbmQobXNnLnZhbHVlKTsKCiAgICAgICAgLy8gZG9jdW1lbnQgbmV3IGludmVzdG1lbnQKICAgICAgICBjdXJyZW50SW52ZXN0b3IgPSBtc2cuc2VuZGVyOwogICAgICAgIGN1cnJlbnRJbnZlc3RtZW50ID0gbXNnLnZhbHVlOwoKICAgIH0KfQ=='.
+	
+
+]

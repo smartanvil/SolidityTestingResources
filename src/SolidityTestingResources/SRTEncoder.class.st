@@ -28,7 +28,7 @@ content{1}
 { #category : #'as yet unclassified' }
 SRTEncoder class >> generateBase64Content: aFile [
 	^ '
-base64{1}
+base64
 	^ ''{2}''.
 	
 '

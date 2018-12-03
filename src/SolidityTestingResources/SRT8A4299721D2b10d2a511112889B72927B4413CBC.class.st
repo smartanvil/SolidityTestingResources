@@ -1,0 +1,12 @@
+Class {
+	#name : #SRT8A4299721D2b10d2a511112889B72927B4413CBC,
+	#superclass : #SRTContracts,
+	#category : #SolidityTestingResources
+}
+
+{ #category : #base64 }
+SRT8A4299721D2b10d2a511112889B72927B4413CBC >> base64 [
+	^ 'cHJhZ21hIHNvbGlkaXR5IF4wLjQuMTY7CgoKY29udHJhY3QgVGVzdENvbnRyYWN0IHsKICAgIHN0cmluZyBwdWJsaWMgY29uc3RhbnQgVkVSU0lPTiA9ICIwLjIuMC10ZXN0LTAuNC4xNiI7Cn0='.
+	
+
+]
